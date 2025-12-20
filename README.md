@@ -7,6 +7,7 @@
 
 **Ссылка на проект:** [http://practicemate.tilda.ws/](http://practicemate.tilda.ws/)
 
+**Макет в Figma:** [https://www.figma.com/design/FMDkLqRmFq121W6snT83yA/PracticeMate-UI?node-id=0-1&t=p0aK34GaJbiA1kCv-1](https://www.figma.com/design/FMDkLqRmFq121W6snT83yA/PracticeMate-UI?node-id=0-1&t=p0aK34GaJbiA1kCv-1)
 ---
 
 ## 👨‍💻 Информация о разработчике
